@@ -1,0 +1,13 @@
+environment: local
+debug: true
+
+database:
+  host: localhost
+  user: user
+  password: password
+
+page:
+  welcome:
+    title: Welcome to Config !
+  info:
+    title: More info

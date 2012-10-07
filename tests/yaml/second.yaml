@@ -1,0 +1,10 @@
+debug: false
+
+database:
+  password: newpassword
+  charset: utf-8
+
+page:
+  welcome:
+    title: Welcome people !
+    body: Don't you like Config ?
