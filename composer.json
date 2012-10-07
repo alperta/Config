@@ -1,5 +1,6 @@
 {
     "name": "redefinelab/config",
+    "description": "A simple config provider with a quick and easy syntax for multi dimensional config arrays.",
     "require": {
         "php": ">=5.3.3",
         "symfony/yaml": "2.1.*"
