@@ -3,7 +3,7 @@
     "description": "A simple config provider with a quick and easy syntax for multi dimensional config arrays.",
     "require": {
         "php": ">=5.3.3",
-        "symfony/yaml": "2.1.*"
+        "symfony/yaml": "2.6.*"
     },
     "autoload": {
         "psr-0": { "RedefineLab\\Config": "src/" }
